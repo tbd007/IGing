@@ -1,11 +1,23 @@
-.App {
-  text-align: center;
+@import url("https://fonts.googleapis.com/css2?family=Lato&family=Lexend+Tera&family=Ma+Shan+Zheng&family=Tenali+Ramakrishna&display=swap");
+
+*{
+  background-color:rgb(19, 19, 19);
+  color:#d4af37;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.App {
+  text-align: center;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  width:62vw;
+  margin:15px auto;
+  border:10px solid black;
+  background-color:black;
+  box-shadow:2px 2px 5px rgb(50, 58, 57);
 }
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -13,19 +25,10 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+
 
 .App-link {
-  color: #61dafb;
+  color: #d4af37;;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +38,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.eng {
+  font-family: 'Ma Shan Zheng', cursive;
+  font-size:100px;
+  color: #d4af37;
+}
+
+.han{
+  font-family: 'Tenali Ramakrishna', sans-serif;
+  font-size:32px;
+  line-height:1.4em;
+  margin-bottom:10px;
+  color:#d4af37;
+}
+
+.pin{
+  font-family: 'Lato', sans-serif;
+  line-height: 1.4em;
+  font-size:14px;
+  color:black;
+  background:transparent;
+  text-align: justify;
 }

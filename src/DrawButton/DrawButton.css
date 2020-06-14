@@ -1,0 +1,12 @@
+.btn {
+    margin:10px;
+    color:#d4af37;
+    padding:5px 10px;
+    text-transform: uppercase;
+    border-color:#d4af37;
+    font-family: 'Lexend Tera', sans-serif;
+}
+
+.buttonContainer{
+    background-color:black;
+}

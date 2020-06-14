@@ -1,0 +1,94 @@
+.card-container{
+    cursor:pointer;
+    height:450px;
+    width:55vw;
+    perspective:800px;
+    position:relative;
+    margin:auto;
+    transition:ease-in;
+    box-shadow:3px -3px 10px rgb(56, 56, 56);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    padding:20px;
+    background:url("https://image.freepik.com/free-psd/tropical-foliage-background_53876-91352.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.card {
+    height:330px;
+    width:330px;
+    position:absolute;
+    transform-style: preserve-3d;
+    transition: all 0.4s ease-in-out;
+    color:white;
+   
+}
+
+.card:hover{
+    transform: rotateY(180deg);
+    transition:all 0.8s ease-in-out;
+}
+
+.card .front{
+    height:330px;
+    width:330px;
+    backface-visibility: hidden;
+    position:absolute;
+    overflow:hidden;
+    text-align:center;
+    background-color:rgb(14, 13, 13);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    border:1px solid #d4af37ad;
+    
+}
+
+.card .back{
+    height:290px;
+    width:290px;
+    text-align:center;
+    transform:rotateY(180deg);
+    background-color:rgb(85, 107, 47);
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    padding:20px;
+    border:1px solid #d4af37;
+    color:#d4af37;
+}
+
+.han, .eng {
+    background:transparent;
+    color:#d4af37;
+}
+
+
+.btn {
+    margin:10px;
+    color:#d4af37;
+    padding:5px 10px;
+    text-transform: uppercase;
+    border-color:#d4af37;
+    font-family: 'Lexend Tera', sans-serif;
+}
+
+.introdiv{
+    background-color:black;
+}
+
+a {
+    text-decoration:none;
+}
+
+.info {
+    position:absolute;
+    bottom:0;
+    right:1%;
+    font-size:0.6em;
+}
