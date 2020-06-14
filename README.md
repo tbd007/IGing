@@ -4,6 +4,8 @@ Das I Ching (Buch der Wandlungen), in Deutschland oft auch als I Ging bezeichnet
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![screencapture-localhost-3000-2020-06-14-18_23_22](https://user-images.githubusercontent.com/58664635/84598688-d31fd080-ae6c-11ea-8bcb-e331ae884d63.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
