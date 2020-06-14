@@ -6,6 +6,7 @@ The interpretation of the readings found in the I Ching is a matter of centuries
 
 
 ![screencapture-localhost-3000-2020-06-14-18_23_22](https://user-images.githubusercontent.com/58664635/84598688-d31fd080-ae6c-11ea-8bcb-e331ae884d63.png)
+![iging](https://user-images.githubusercontent.com/58664635/84599943-f69b4900-ae75-11ea-8602-75db0c6ecf00.gif)
 
 ## Available Scripts
 
