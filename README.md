@@ -1,8 +1,9 @@
 ## IGING REACT & FIREBASE APP
 
-Das I Ching (Buch der Wandlungen), in Deutschland oft auch als I Ging bezeichnet, ist ein rund 5000 Jahre alter chinesischer Text, der sich mit dem Prinzip der Veränderung beschäftigt und alles Existente in 64 komplexen Bildern, sogenannten Hexagrammen, beschreibt.Seit tausenden von Jahren wurde das I Ching als Orakel verwendet, um Situationen und die daraus hervorgehenden Änderungen zu beschreiben.
+The I Ching or Yi Jing (Chinese: 易經; pinyin: Yìjīng; Mandarin pronunciation: [î tɕíŋ] (About this soundlisten)), usually translated as Book of Changes or Classic of Changes, is an ancient Chinese divination text and the oldest of the Chinese classics. With more than two and a half millennia's worth of commentary and interpretation, the I Ching is an influential text read throughout the world, providing inspiration to the worlds of religion, philosophy,[1] literature, and art. Originally a divination manual in the Western Zhou period (1000–750 BC), over the course of the Warring States period and early imperial period (500–200 BC) it was transformed into a cosmological text with a series of philosophical commentaries known as the "Ten Wings".[2] After becoming part of the Five Classics in the 2nd century BC, the I Ching was the subject of scholarly commentary and the basis for divination practice for centuries across the Far East, and eventually took on an influential role in Western understanding of Eastern thought.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The interpretation of the readings found in the I Ching is a matter of centuries' debate, and many commentators have used the book symbolically, often to provide guidance for moral decision making as informed by Confucianism, Taoism and Buddhism.
+
 
 ![screencapture-localhost-3000-2020-06-14-18_23_22](https://user-images.githubusercontent.com/58664635/84598688-d31fd080-ae6c-11ea-8bcb-e331ae884d63.png)
 
